@@ -51,3 +51,5 @@ The global pointer ($gp) is stored at 0x10008000
 |            |sw $t0, -32768($t1)|
 
 <br>
+
+https://github.com/shubhamdasdev/Sytem-programming-LABS/blob/main/LAB2/README.md
